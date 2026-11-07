@@ -1,5 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
+  branch: main
   repo: raqeemart-collab/mk-menu
   branch: main
 media_folder: "images/uploads"
